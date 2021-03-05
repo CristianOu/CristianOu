@@ -30,8 +30,8 @@
 
 ### Connect with me:
 
-<img align="left" alt="GabrielNicutari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="GabrielNicutari | Discord" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg" />
+<img align="left" alt="GabrielNicutari | LinkedIn" width="22px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
+<img align="left" alt="GabrielNicutari | Discord" width="24px" src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png" />
 
 <br />
 
