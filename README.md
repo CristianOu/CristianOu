@@ -3,6 +3,7 @@
 ## I'm studying Computer Science at KEA - Copenhagen
 
 <br />
+
 ---
 
 ### Languages and Tools:
