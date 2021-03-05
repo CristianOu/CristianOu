@@ -20,6 +20,9 @@
 <img align="left" alt="Jenkins" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 <img align="left" alt="AWS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" />
 <img align="left" alt="C#" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+<img align="left" alt="NodeJs" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png" />
+
+
 
 
 <br />
