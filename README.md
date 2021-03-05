@@ -1,6 +1,6 @@
 ### Hi there, I'm Cristian! 👋
 
-## I'm studying Computer Science at KEA - Copenhagen
+## Student at Computer Science at KEA - Copenhagen
 
 <br />
 
