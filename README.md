@@ -6,8 +6,6 @@ I am studying Computer Science at KEA - Copenhagen
 
 <br />
 
----
-
 ### Languages and Tools:
 <img align="left" alt="Java" width="32px" src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" />
 <img align="left" alt="Spring" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_K5_S6MDApkQ-jfChAWwy_iyWn-Nl-DhbA&usqp=CAU" />
