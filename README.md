@@ -30,7 +30,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/cristian-ou-63aaa5192" target="_blank"><img align="left" alt="GabrielNicutari | LinkedIn" width="35px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" /> </a>
+<a href="https://www.linkedin.com/in/cristian-ou-63aaa5192" target="_blank"> <img align="left" alt="GabrielNicutari | LinkedIn" width="35px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png"/> </a>
 <a href ="https://www.facebook.com/cristi.ou.0" target="_blank"><img align="left" alt="GabrielNicutari | Discord" width="55px" src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png" /></a>
 
 <br />
