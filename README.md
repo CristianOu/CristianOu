@@ -22,10 +22,13 @@
 <img align="left" alt="C#" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 <img align="left" alt="NodeJs" width="45px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" />
 
-
-
-
 <br />
+
+### Connect with me:
+
+[<img align="left" alt="GabrielNicutari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GabrielNicutari | Discord" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg" />][discord]
+
 <br />
 
 ---
