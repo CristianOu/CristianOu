@@ -3,6 +3,7 @@
 ## I'm studying Computer Science at KEA - Copenhagen
 
 <br />
+---
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="32px" src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" />
