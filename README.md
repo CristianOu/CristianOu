@@ -1,6 +1,6 @@
 ### Hi there, I'm Cristian! 👋
 
-## Student at Software Development at KEA - Copenhagen
+## Pursuing a master's degree in Computer Science at ITU - Copenhagen
 
 <br />
 
