@@ -32,6 +32,5 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/cristian-ou-63aaa5192" target="_blank"> <img align="left" alt="Cristian Ou | LinkedIn" width="35px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png"/> </a>
-<a href ="https://www.facebook.com/cristi.ou.0" target="_blank"><img align="left" alt="Cristian Ou | Facebook" width="55px" src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png"/></a>
 <a href="https://www.instagram.com/cristian.o.u.15/" target="_blank"> <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/> </a>
 
