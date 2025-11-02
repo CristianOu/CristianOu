@@ -1,6 +1,6 @@
 ## Hi there, I'm Cristian! 👋
 
-### I'm a software developer pursuing a master's degree in Computer Science at ITU - Copenhagen
+### I’m a software developer who recently completed a master’s degree in Computer Science at the IT University of Copenhagen.
 
 <br />
 
