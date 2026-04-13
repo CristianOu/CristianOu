@@ -1,7 +1,6 @@
 ## Hi there, I'm Cristian! 👋
 
-### I’m a software developer who recently completed a master’s degree in Computer Science at the IT University of Copenhagen.
-
+I started in software development and over the last few years shifted my focus toward machine learning, deep learning, and AI. What drives me is the gap between what research makes possible and what people actually have access to. I want to help close it.
 <br />
 
 ---
